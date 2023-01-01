@@ -1,6 +1,7 @@
  This is a display of sample websites that I made using HTML and CSS.
 
-Projects
+
+ Projects
 • Space Station Site
 • Movie Theater Site
 
