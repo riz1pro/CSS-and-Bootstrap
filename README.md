@@ -7,9 +7,9 @@
 
 ## Projects
  
-[• Space Station Site]
+[• Space Station Site
 
-• Movie Theater Site
+[• Movie Theater Site
 
 
 
